@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const mongoURI = "mongodb+srv://error404:error404@cluster0.6ke0hoy.mongodb.net/" ;
+const mongoURI = "mongodb+srv://error404:<password>@cluster0.mhtohzu.mongodb.net/" ;
 
 
 const connectToMongo = async  ()=>{
